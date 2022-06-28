@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "..\\site\\start"
+		},
+		{
+			"path": "..\\Web\\2022\\js\\js-variables"
+		},
+		{
+			"path": "..\\Web\\2022\\js\\js homework lesson 3"
+		},
+		{
+			"path": "..\\Web\\2022\\js\\js-datatypes"
+		},
+		{
+			"path": "..\\Alex"
+		},
+		{
+			"path": "..\\Web\\2022\\js\\js-syntax"
+		},
+		{
+			"path": "..\\Web\\2022\\js\\js - first homework"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Adapting Figma Maket"
+	}
+}
